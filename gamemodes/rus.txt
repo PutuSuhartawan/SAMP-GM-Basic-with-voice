@@ -1,0 +1,13 @@
+E:\Kerja\GM\OVER RP FULL UPGRADE\gamemodes\Mehganun.pwn(47502) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+E:\Kerja\GM\OVER RP FULL UPGRADE\gamemodes\Mehganun.pwn(47515) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+E:\Kerja\GM\OVER RP FULL UPGRADE\gamemodes\Mehganun.pwn(47523) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+E:\Kerja\GM\OVER RP FULL UPGRADE\gamemodes\Mehganun.pwn(47528) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+E:\Kerja\GM\OVER RP FULL UPGRADE\gamemodes\Mehganun.pwn(47541) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+E:\Kerja\GM\OVER RP FULL UPGRADE\gamemodes\Mehganun.pwn(61976) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+E:\Kerja\GM\OVER RP FULL UPGRADE\gamemodes\Mehganun.pwn(62036) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+E:\Kerja\GM\OVER RP FULL UPGRADE\gamemodes\Mehganun.pwn(62322) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+E:\Kerja\GM\OVER RP FULL UPGRADE\gamemodes\Mehganun.pwn(62378) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Ïðåäóïðåæäåíèé:4.
