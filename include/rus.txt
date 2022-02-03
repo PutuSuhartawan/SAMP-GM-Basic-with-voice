@@ -1,0 +1,24 @@
+C:\Users\pc01\Music\ACRP LATEST\include\Mazeatm.inc(11) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
+C:\Users\pc01\Music\ACRP LATEST\include\Mazeatm.inc(13) : ïðåäóïðåæäåíèå 235: public-ôóíêöèÿ íóæäàåòñÿ â îïåðåæàþùåì îáúÿâëåíèè (èäåíòèôèêàòîð "OnPlayerKeyStateChange")
+C:\Users\pc01\Music\ACRP LATEST\include\Mazeatm.inc(15) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "IsPlayerInRangeOfPoint"
+C:\Users\pc01\Music\ACRP LATEST\include\Mazeatm.inc(21) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "SelectTextDraw"
+C:\Users\pc01\Music\ACRP LATEST\include\Mazeatm.inc(27) : ïðåäóïðåæäåíèå 235: public-ôóíêöèÿ íóæäàåòñÿ â îïåðåæàþùåì îáúÿâëåíèè (èäåíòèôèêàòîð "OnPlayerClickPlayerTextDraw")
+C:\Users\pc01\Music\ACRP LATEST\include\Mazeatm.inc(34) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "format"
+C:\Users\pc01\Music\ACRP LATEST\include\Mazeatm.inc(34) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+C:\Users\pc01\Music\ACRP LATEST\include\Mazeatm.inc(34) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+C:\Users\pc01\Music\ACRP LATEST\include\Mazeatm.inc(34) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "GetPlayerNameEx"
+C:\Users\pc01\Music\ACRP LATEST\include\Mazeatm.inc(35) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "PlayerTextDrawSetString"
+C:\Users\pc01\Music\ACRP LATEST\include\Mazeatm.inc(37) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "format"
+C:\Users\pc01\Music\ACRP LATEST\include\Mazeatm.inc(37) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+C:\Users\pc01\Music\ACRP LATEST\include\Mazeatm.inc(37) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+C:\Users\pc01\Music\ACRP LATEST\include\Mazeatm.inc(37) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "PlayerInfo"
+C:\Users\pc01\Music\ACRP LATEST\include\Mazeatm.inc(37) : ïðåäóïðåæäåíèå 215: âûðàæåíèå íå èìååò ýôôåêòà
+C:\Users\pc01\Music\ACRP LATEST\include\Mazeatm.inc(37) : îøèáêà 001: îæèäàëñÿ òîêåí ";", íî íàéäåí "]"
+C:\Users\pc01\Music\ACRP LATEST\include\Mazeatm.inc(37) : ôàòàëüíàÿ îøèáêà 107: ñëèøêîì ìíîãî îøèáîê íà îäíîé ñòðîêå
+
+Êîìïèëÿöèÿ îñòàíîâëåíà.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Îøèáîê:10.
