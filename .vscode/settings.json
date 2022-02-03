@@ -1,0 +1,5 @@
+{
+    "problems.showCurrentInStatus": true,
+    "comments.openPanel": "openOnSessionStart",
+    "remote.autoForwardPortsSource": "output"
+}
