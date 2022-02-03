@@ -1,0 +1,516 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:34:21] weburl = "www.sa-mp.com"  (string)
+[17:34:21] 
+[17:34:21] Server Plugins
+[17:34:21] --------------
+[17:34:21]  Loading plugin: crashdetect
+[17:34:21]   CrashDetect v4.18.1 is OK.
+[17:34:21]   Loaded.
+[17:34:21]  Loading plugin: whirlpool
+[17:34:21]  
+[17:34:21]  ==================
+[17:34:21]  
+[17:34:21]   Whirlpool loaded
+[17:34:21]  
+[17:34:21]  ==================
+[17:34:21]  
+[17:34:21]   Loaded.
+[17:34:21]  Loading plugin: pawncmd
+[17:34:21] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[17:34:21]   Loaded.
+[17:34:21]  Loading plugin: SKY
+[17:34:21] 
+[17:34:21]  ===============================
+[17:34:21]    
+[17:34:21]    < SKY - 2.3.0 >
+[17:34:21]    
+[17:34:21]    (c) 2008 - Present | YSF Maintainers
+[17:34:21]    (c) 2015 | Oscar "Slice" Broman
+[17:34:21]    
+[17:34:21]    Server Version: 0.3.7 R2
+[17:34:21]    Operating System: Windows
+[17:34:21]    Built on: Sep 27 2021 at 23:19:52
+[17:34:21]    
+[17:34:21]  ===============================
+[17:34:21] 
+[17:34:21]   Loaded.
+[17:34:21]  Loading plugin: sscanf
+[17:34:21] 
+
+[17:34:21]  ===============================
+
+[17:34:21]       sscanf plugin loaded.     
+
+[17:34:21]          Version:  2.8.3        
+
+[17:34:21]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:34:21]  ===============================
+
+[17:34:21]   Loaded.
+[17:34:21]  Loading plugin: streamer
+[17:34:21] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[17:34:21]   Loaded.
+[17:34:21]  Loading plugin: mysql
+[17:34:21]  >> plugin.mysql: R39-5 successfully loaded.
+[17:34:21]   Loaded.
+[17:34:21]  Loading plugin: sampvoice
+[17:34:21] [sv:dbg:network:init] : module initializing...
+[17:34:21] [dbg:raknet:init] : module initializing...
+[17:34:21] [dbg:raknet:init] : module initialized
+[17:34:21] [sv:dbg:network:init] : module initialized
+[17:34:21] [sv:dbg:main:Load] : creating 2 work threads...
+[17:34:21]  -------------------------------------------    
+[17:34:21]    ___                __   __    _              
+[17:34:21]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[17:34:21]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[17:34:22]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[17:34:22]                   |_|                           
+[17:34:22]  -------------------------------------------    
+[17:34:22]            SampVoice by MOR loaded              
+[17:34:22]  -------------------------------------------    
+[17:34:22]   Loaded.
+[17:34:22]  Loading plugin: nativechecker
+[17:34:22]   Failed.
+[17:34:22]  Loading plugin: discord-connector
+[17:34:22]   Failed.
+[17:34:23]  Loaded 8 plugins.
+
+[17:34:23] 
+[17:34:23] Filterscripts
+[17:34:23] ---------------
+[17:34:24]   Loading filterscript 'mappings.amx'...
+[17:34:24] AMX (50768456) loaded
+[17:34:24] [sv:dbg:main:AmxLoad] : net game pointer (value:02359BE0) received
+[17:34:24] [sv:dbg:network:bind] : voice server running on port 53625
+[17:34:24]   Loaded 1 filterscripts.
+
+[17:34:24] AMX (50725832) loaded
+[17:34:24] OnScriptInit 1
+[17:34:24]  
+[17:34:24]  
+[17:34:24]  
+[17:34:24]  ======================================= 
+[17:34:24]  |                                     | 
+[17:34:24]  |        YSI version 1.06.0002        | 
+[17:34:24]  |        By Alex "Y_Less" Cole        | 
+[17:34:24]  |                                     | 
+[17:34:24]  ======================================= 
+[17:34:24]  
+[17:34:24] OnScriptInit 2
+[17:34:24] OnScriptInit 3
+[17:34:24] Iter_OnGameModeInit start: 1000
+[17:34:25] Unable to establish a connection with the MySQL server...
+[17:34:25] Iter_OnGameModeInit: first
+[17:34:25] OnScriptInit 4
+[17:34:25] Number of vehicle models: 0
+[17:34:25] --- Server Shutting Down.
+[17:34:25]  
+[17:34:25]  ====================
+[17:34:25]  
+[17:34:25]   Whirlpool unloaded
+[17:34:25]  
+[17:34:25]  ====================
+[17:34:25]  
+[17:34:25] [Pawn.CMD] plugin v3.3.2 by urShadow unloaded
+[17:34:25] 
+
+[17:34:25]  ===============================
+
+[17:34:25]      sscanf plugin unloaded.    
+
+[17:34:25]  ===============================
+
+[17:34:25] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[17:34:25] plugin.mysql: Unloading plugin...
+[17:34:25] plugin.mysql: Plugin unloaded.
+[17:34:25]  -------------------------------------------
+[17:34:25]            SampVoice unloading...           
+[17:34:25]  -------------------------------------------
+[17:34:25] [dbg:raknet:free] : module releasing...
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:37:12] weburl = "www.sa-mp.com"  (string)
+[17:37:12] 
+[17:37:12] Server Plugins
+[17:37:12] --------------
+[17:37:12]  Loading plugin: crashdetect
+[17:37:12]   CrashDetect v4.18.1 is OK.
+[17:37:12]   Loaded.
+[17:37:12]  Loading plugin: whirlpool
+[17:37:12]  
+[17:37:12]  ==================
+[17:37:12]  
+[17:37:12]   Whirlpool loaded
+[17:37:12]  
+[17:37:12]  ==================
+[17:37:12]  
+[17:37:12]   Loaded.
+[17:37:12]  Loading plugin: pawncmd
+[17:37:12] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[17:37:12]   Loaded.
+[17:37:12]  Loading plugin: SKY
+[17:37:12] 
+[17:37:12]  ===============================
+[17:37:12]    
+[17:37:12]    < SKY - 2.3.0 >
+[17:37:12]    
+[17:37:12]    (c) 2008 - Present | YSF Maintainers
+[17:37:12]    (c) 2015 | Oscar "Slice" Broman
+[17:37:12]    
+[17:37:12]    Server Version: 0.3.7 R2
+[17:37:12]    Operating System: Windows
+[17:37:12]    Built on: Sep 27 2021 at 23:19:52
+[17:37:12]    
+[17:37:12]  ===============================
+[17:37:12] 
+[17:37:12]   Loaded.
+[17:37:12]  Loading plugin: sscanf
+[17:37:12] 
+
+[17:37:12]  ===============================
+
+[17:37:12]       sscanf plugin loaded.     
+
+[17:37:12]          Version:  2.8.3        
+
+[17:37:12]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:37:12]  ===============================
+
+[17:37:12]   Loaded.
+[17:37:12]  Loading plugin: streamer
+[17:37:12] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[17:37:12]   Loaded.
+[17:37:12]  Loading plugin: mysql
+[17:37:12]  >> plugin.mysql: R39-5 successfully loaded.
+[17:37:12]   Loaded.
+[17:37:12]  Loading plugin: sampvoice
+[17:37:12] [sv:dbg:network:init] : module initializing...
+[17:37:12] [dbg:raknet:init] : module initializing...
+[17:37:12] [dbg:raknet:init] : module initialized
+[17:37:12] [sv:dbg:network:init] : module initialized
+[17:37:12] [sv:dbg:main:Load] : creating 2 work threads...
+[17:37:12]  -------------------------------------------    
+[17:37:12]    ___                __   __    _              
+[17:37:12]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[17:37:12]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[17:37:12]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[17:37:12]                   |_|                           
+[17:37:12]  -------------------------------------------    
+[17:37:12]            SampVoice by MOR loaded              
+[17:37:13]  -------------------------------------------    
+[17:37:13]   Loaded.
+[17:37:13]  Loading plugin: nativechecker
+[17:37:13]   Failed.
+[17:37:13]  Loading plugin: discord-connector
+[17:37:13]   Failed.
+[17:37:13]  Loaded 8 plugins.
+
+[17:37:14] 
+[17:37:14] Filterscripts
+[17:37:14] ---------------
+[17:37:14]   Loading filterscript 'mappings.amx'...
+[17:37:14] AMX (50047560) loaded
+[17:37:14] [sv:dbg:main:AmxLoad] : net game pointer (value:02329BE0) received
+[17:37:15] [sv:dbg:network:bind] : voice server running on port 50894
+[17:37:15]   Loaded 1 filterscripts.
+
+[17:37:15] AMX (50004936) loaded
+[17:37:15] OnScriptInit 1
+[17:37:15]  
+[17:37:15]  
+[17:37:15]  
+[17:37:15]  ======================================= 
+[17:37:15]  |                                     | 
+[17:37:15]  |        YSI version 1.06.0002        | 
+[17:37:15]  |        By Alex "Y_Less" Cole        | 
+[17:37:15]  |                                     | 
+[17:37:15]  ======================================= 
+[17:37:15]  
+[17:37:15] OnScriptInit 2
+[17:37:15] OnScriptInit 3
+[17:37:15] Iter_OnGameModeInit start: 1000
+[17:37:15] Unable to establish a connection with the MySQL server...
+[17:37:15] Iter_OnGameModeInit: first
+[17:37:15] OnScriptInit 4
+[17:37:15] Number of vehicle models: 0
+[17:37:15] --- Server Shutting Down.
+[17:37:16]  
+[17:37:16]  ====================
+[17:37:16]  
+[17:37:16]   Whirlpool unloaded
+[17:37:16]  
+[17:37:16]  ====================
+[17:37:16]  
+[17:37:16] [Pawn.CMD] plugin v3.3.2 by urShadow unloaded
+[17:37:16] 
+
+[17:37:16]  ===============================
+
+[17:37:16]      sscanf plugin unloaded.    
+
+[17:37:16]  ===============================
+
+[17:37:16] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[17:37:16] plugin.mysql: Unloading plugin...
+[17:37:16] plugin.mysql: Plugin unloaded.
+[17:37:16]  -------------------------------------------
+[17:37:16]            SampVoice unloading...           
+[17:37:16]  -------------------------------------------
+[17:37:16] [dbg:raknet:free] : module releasing...
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:43:08] weburl = "www.sa-mp.com"  (string)
+[17:43:08] 
+[17:43:08] Server Plugins
+[17:43:08] --------------
+[17:43:08]  Loading plugin: crashdetect
+[17:43:08]   CrashDetect v4.18.1 is OK.
+[17:43:08]   Loaded.
+[17:43:08]  Loading plugin: whirlpool
+[17:43:08]  
+[17:43:08]  ==================
+[17:43:08]  
+[17:43:08]   Whirlpool loaded
+[17:43:08]  
+[17:43:08]  ==================
+[17:43:08]  
+[17:43:08]   Loaded.
+[17:43:08]  Loading plugin: pawncmd
+[17:43:08] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[17:43:08]   Loaded.
+[17:43:08]  Loading plugin: SKY
+[17:43:09] 
+[17:43:09]  ===============================
+[17:43:09]    
+[17:43:09]    < SKY - 2.3.0 >
+[17:43:09]    
+[17:43:09]    (c) 2008 - Present | YSF Maintainers
+[17:43:09]    (c) 2015 | Oscar "Slice" Broman
+[17:43:09]    
+[17:43:09]    Server Version: 0.3.7 R2
+[17:43:09]    Operating System: Windows
+[17:43:09]    Built on: Sep 27 2021 at 23:19:52
+[17:43:09]    
+[17:43:09]  ===============================
+[17:43:09] 
+[17:43:09]   Loaded.
+[17:43:09]  Loading plugin: sscanf
+[17:43:09] 
+
+[17:43:09]  ===============================
+
+[17:43:09]       sscanf plugin loaded.     
+
+[17:43:09]          Version:  2.8.3        
+
+[17:43:09]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:43:09]  ===============================
+
+[17:43:09]   Loaded.
+[17:43:09]  Loading plugin: streamer
+[17:43:09] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[17:43:09]   Loaded.
+[17:43:09]  Loading plugin: mysql
+[17:43:09]  >> plugin.mysql: R39-5 successfully loaded.
+[17:43:09]   Loaded.
+[17:43:09]  Loading plugin: sampvoice
+[17:43:09] [sv:dbg:network:init] : module initializing...
+[17:43:09] [dbg:raknet:init] : module initializing...
+[17:43:09] [dbg:raknet:init] : module initialized
+[17:43:09] [sv:dbg:network:init] : module initialized
+[17:43:09] [sv:dbg:main:Load] : creating 2 work threads...
+[17:43:09]  -------------------------------------------    
+[17:43:09]    ___                __   __    _              
+[17:43:09]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[17:43:09]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[17:43:09]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[17:43:09]                   |_|                           
+[17:43:09]  -------------------------------------------    
+[17:43:09]            SampVoice by MOR loaded              
+[17:43:09]  -------------------------------------------    
+[17:43:09]   Loaded.
+[17:43:10]  Loading plugin: nativechecker
+[17:43:10]   Failed.
+[17:43:10]  Loading plugin: discord-connector
+[17:43:10]   Failed.
+[17:43:10]  Loaded 8 plugins.
+
+[17:43:11] 
+[17:43:11] Filterscripts
+[17:43:11] ---------------
+[17:43:11]   Loading filterscript 'mappings.amx'...
+[17:43:11] AMX (50047560) loaded
+[17:43:11] [sv:dbg:main:AmxLoad] : net game pointer (value:022A9BE0) received
+[17:43:11] [sv:dbg:network:bind] : voice server running on port 51179
+[17:43:11]   Loaded 1 filterscripts.
+
+[17:43:11] AMX (50004936) loaded
+[17:43:11] OnScriptInit 1
+[17:43:11]  
+[17:43:11]  
+[17:43:11]  
+[17:43:11]  ======================================= 
+[17:43:11]  |                                     | 
+[17:43:11]  |        YSI version 1.06.0002        | 
+[17:43:11]  |        By Alex "Y_Less" Cole        | 
+[17:43:11]  |                                     | 
+[17:43:11]  ======================================= 
+[17:43:11]  
+[17:43:11] OnScriptInit 2
+[17:43:11] OnScriptInit 3
+[17:43:11] Iter_OnGameModeInit start: 1000
+[17:43:11] Couldn't connect to radio station database... server will continue to operate normally.
+[17:43:12] STAR REALITY ROLEPLAY
+[17:43:12] 327 objects loaded.
+[17:43:12] Iter_OnGameModeInit: first
+[17:43:12] OnScriptInit 4
+[17:43:12] Number of vehicle models: 20
+[17:43:12] [Script] 5 atms loaded
+[17:43:12] [Script] 82 houses loaded.
+[17:43:12] [Script] 3 garages loaded.
+[17:43:12] [Script] 19 businesses loaded.
+[17:43:12] [Script] 49 entrances loaded.
+[17:43:12] [Script] 9 factions loaded.
+[17:43:12] [Script] 0 lands loaded.
+[17:43:12] [Script] 1 gangs loaded.
+[17:43:12] [Script] 0 points loaded.
+[17:43:12] [Script] 0 turfs loaded.
+[17:43:12] [BillBoards] No records found.
+[17:43:37] [connection] incoming connection: 125.162.211.4:55250 id: 0
+[17:43:38] [sv:dbg:network:connect] : connecting player (0) with address (125.162.211.4) ...
+[17:43:38] [sv:dbg:network:connect] : player (0) assigned key (bcf82207)
+[17:43:38] [join] Putu_Suhartawan has joined the server (0:125.162.211.4)
+[17:45:56] [connection] incoming connection: 114.79.4.148:37513 id: 1
+[17:45:57] [sv:dbg:network:connect] : connecting player (1) with address (114.79.4.148) ...
+[17:45:57] [sv:dbg:network:connect] : player (1) assigned key (22033f50)
+[17:45:57] [join] Alexander_Joshua has joined the server (1:114.79.4.148)
+[17:45:57] [sv:dbg:network:receive] : player (1) identified (port:55865)
+[17:46:23] [chat] [Putu_Suhartawan]: a
+[17:46:27] [chat] [Putu_Suhartawan]: Hallo
+[17:47:23] [chat] [Putu_Suhartawan]: udah?
+[17:48:11] [chat] [Alexander_Joshua]: ada suara bang?
+[17:48:36] [chat] [Putu_Suhartawan]: nga wkwk
+[17:49:22] [chat] [Putu_Suhartawan]: ada nga?
+[17:49:29] [chat] [Alexander_Joshua]: ga ada bang
+[17:49:39] [chat] [Putu_Suhartawan]: biasanya langsung voice?
+[17:50:12] [chat] [Putu_Suhartawan]: biasanya nga milih mc dulu kah bang?
+[17:50:13] [chat] [Alexander_Joshua]: bentar aku migrasi dulu bang
+[17:50:19] [chat] [Putu_Suhartawan]: kemana?
+[17:50:21] [cmd] Putu Suhartawan: [stats]
+[17:50:25] [chat] [Alexander_Joshua]: relog
+[17:50:27] [cmd] Putu Suhartawan: [admins]
+[17:50:28] [chat] [Alexander_Joshua]: relog
+[17:50:31] [chat] [Putu_Suhartawan]: buat apa?
+[17:50:43] [sv:dbg:network:connect] : disconnecting player (1) ...
+[17:50:43] [part] Alexander_Joshua has left the server (1:0)
+[17:50:52] [cmd] Putu Suhartawan: [newbinfo]
+[17:51:00] [connection] incoming connection: 114.79.4.148:58719 id: 1
+[17:51:00] [sv:dbg:network:connect] : connecting player (1) with address (114.79.4.148) ...
+[17:51:00] [sv:dbg:network:connect] : player (1) assigned key (e05c07a)
+[17:51:00] [join] Alexander_Joshua has joined the server (1:114.79.4.148)
+[17:51:01] [sv:dbg:network:receive] : player (1) identified (port:36642)
+[17:51:04] [sv:dbg:network:connect] : disconnecting player (0) ...
+[17:51:04] [part] Putu_Suhartawan has left the server (0:0)
+[17:52:19] [cmd] Alexander Joshua: [texts]
+[17:52:47] [sv:dbg:network:connect] : disconnecting player (1) ...
+[17:52:47] [part] Alexander_Joshua has left the server (1:0)
+[18:00:25] [connection] incoming connection: 114.79.4.148:49882 id: 0
+[18:00:26] [sv:dbg:network:connect] : connecting player (0) with address (114.79.4.148) ...
+[18:00:26] [sv:dbg:network:connect] : player (0) assigned key (b6e934d4)
+[18:00:26] [join] Aditya_Joshua has joined the server (0:114.79.4.148)
+[18:00:26] [sv:dbg:network:receive] : player (0) identified (port:53830)
+[18:02:46] [connection] incoming connection: 114.79.4.148:57443 id: 1
+[18:02:47] [sv:dbg:network:connect] : connecting player (1) with address (114.79.4.148) ...
+[18:02:47] [sv:dbg:network:connect] : player (1) assigned key (ccaf9fd4)
+[18:02:47] [join] Alexander_Joshua has joined the server (1:114.79.4.148)
+[18:02:47] [sv:dbg:network:receive] : player (1) identified (port:56923)
+[18:04:15] [connection] incoming connection: 180.252.198.195:54327 id: 2
+[18:04:15] [sv:dbg:network:connect] : connecting player (2) with address (180.252.198.195) ...
+[18:04:15] [sv:dbg:network:connect] : player (2) assigned key (44ff41d4)
+[18:04:15] [join] Putu_Suhartawan has joined the server (2:180.252.198.195)
+[18:04:15] [sv:dbg:network:receive] : player (2) identified (port:65120)
+[18:04:57] [chat] [Putu_Suhartawan]: kedengaran ga?
+[18:05:26] [chat] [Putu_Suhartawan]: kedengaran kok wkwk
+[18:05:38] [chat] [Putu_Suhartawan]: udah wkwk
+[18:05:44] [chat] [Putu_Suhartawan]: kedengaran kok wkwk
+[18:06:05] [chat] [Putu_Suhartawan]: mungkin drivernya salah pilih
+[18:06:15] [chat] [Putu_Suhartawan]: ada suara?
+[18:06:50] [chat] [Alexander_Joshua]: yang muncul cuma satu doang bang
+[18:06:56] [chat] [Putu_Suhartawan]: apanya
+[18:07:03] [chat] [Alexander_Joshua]: ygmuncul suaranya cuma satu doang
+[18:07:07] [chat] [Putu_Suhartawan]: siapa
+[18:07:15] [chat] [Alexander_Joshua]: kita on mic trs ngomong ga ada suaranya
+[18:07:35] [chat] [Putu_Suhartawan]: ada kok
+[18:07:48] [chat] [Putu_Suhartawan]: saya yang salah driver bang wkwk
+[18:08:00] [cmd] Putu Suhartawan: [kick]
+[18:08:03] [cmd] Putu Suhartawan: [admins]
+[18:08:11] [cmd] Putu Suhartawan: [stats]
+[18:10:49] [sv:dbg:network:connect] : disconnecting player (1) ...
+[18:10:49] [part] Alexander_Joshua has left the server (1:0)
+[18:11:11] [connection] incoming connection: 114.79.4.148:33677 id: 1
+[18:11:12] [sv:dbg:network:connect] : connecting player (1) with address (114.79.4.148) ...
+[18:11:12] [sv:dbg:network:connect] : player (1) assigned key (a56ea17d)
+[18:11:12] [join] Alexander_Joshua has joined the server (1:114.79.4.148)
+[18:11:12] [sv:dbg:network:receive] : player (1) identified (port:40386)
+[18:21:21] [cmd] Putu Suhartawan: [info]
+[18:29:33] [cmd] Putu Suhartawan: [stats]
+[18:31:10] [cmd] Putu Suhartawan: [help]
+[18:31:18] [cmd] Putu Suhartawan: [report]
+[18:31:23] Report from [2]Putu Suhartawan (RID: 0): 1 test
+[18:31:23] [cmd] Putu Suhartawan: [report]
+[18:31:26] [cmd] Putu Suhartawan: [admins]
+[18:39:32] [cmd] Alexander Joshua: [info]
+[18:39:51] [cmd] Alexander Joshua: [info]
+[18:40:19] [sv:dbg:network:connect] : disconnecting player (1) ...
+[18:40:19] [part] Alexander_Joshua has left the server (1:0)
+[18:40:33] [cmd] Aditya Joshua: [phone]
+[18:50:40] [sv:dbg:network:connect] : disconnecting player (0) ...
+[18:50:40] [part] Aditya_Joshua has left the server (0:0)
+[19:21:00]  -------------------------------------------
+[19:21:00]            SampVoice unloading...           
+[19:21:00]  -------------------------------------------
+[19:21:00] [dbg:raknet:free] : module releasing...
+[19:21:00] [sv:dbg:network:connect] : disconnecting player (2) ...
+[19:21:00] [dbg:raknet:free] : module released
+[19:21:00] [sv:dbg:network:free] : module releasing...
+[19:21:00] [sv:dbg:network:free] : module released

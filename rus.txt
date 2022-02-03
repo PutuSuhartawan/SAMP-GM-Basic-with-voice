@@ -1,0 +1,13 @@
+c:\Users\orderan285\Desktop\OVER RP FULL UPGRADE\gamemodes\Mehganun.pwn(47517) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+c:\Users\orderan285\Desktop\OVER RP FULL UPGRADE\gamemodes\Mehganun.pwn(47530) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+c:\Users\orderan285\Desktop\OVER RP FULL UPGRADE\gamemodes\Mehganun.pwn(47538) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+c:\Users\orderan285\Desktop\OVER RP FULL UPGRADE\gamemodes\Mehganun.pwn(47543) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+c:\Users\orderan285\Desktop\OVER RP FULL UPGRADE\gamemodes\Mehganun.pwn(47556) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+c:\Users\orderan285\Desktop\OVER RP FULL UPGRADE\gamemodes\Mehganun.pwn(61991) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+c:\Users\orderan285\Desktop\OVER RP FULL UPGRADE\gamemodes\Mehganun.pwn(62051) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+c:\Users\orderan285\Desktop\OVER RP FULL UPGRADE\gamemodes\Mehganun.pwn(62337) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+c:\Users\orderan285\Desktop\OVER RP FULL UPGRADE\gamemodes\Mehganun.pwn(62393) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Ïðåäóïðåæäåíèé:4.

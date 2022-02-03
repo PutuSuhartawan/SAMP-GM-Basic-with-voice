@@ -1,0 +1,219 @@
+[17:23:40] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'u607057_7SZx3D5KIk'@'13.76.181.240' (using password: YES)
+[17:23:40] [WARNING] CMySQLConnection::Disconnect - no connection available
+[17:23:40] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'u607057_7SZx3D5KIk'@'13.76.181.240' (using password: YES)
+[17:23:40] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'u607057_7SZx3D5KIk'@'13.76.181.240' (using password: YES)
+[17:23:40] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'u607057_7SZx3D5KIk'@'13.76.181.240' (using password: YES)
+[17:23:40] [WARNING] CMySQLConnection::Disconnect - no connection available
+[17:23:40] [WARNING] CMySQLConnection::Disconnect - no connection available
+[17:23:40] [WARNING] CMySQLConnection::Disconnect - no connection available
+[17:25:10] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'u607057_7SZx3D5KIk'@'13.76.181.240' (using password: YES)
+[17:25:10] [WARNING] CMySQLConnection::Disconnect - no connection available
+[17:25:11] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'u607057_7SZx3D5KIk'@'13.76.181.240' (using password: YES)
+[17:25:11] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'u607057_7SZx3D5KIk'@'13.76.181.240' (using password: YES)
+[17:25:11] [WARNING] CMySQLConnection::Disconnect - no connection available
+[17:25:11] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'u607057_7SZx3D5KIk'@'13.76.181.240' (using password: YES)
+[17:25:11] [WARNING] CMySQLConnection::Disconnect - no connection available
+[17:25:11] [WARNING] CMySQLConnection::Disconnect - no connection available
+[17:29:44] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'u607057_7SZx3D5KIk'@'13.76.181.240' (using password: YES)
+[17:29:44] [WARNING] CMySQLConnection::Disconnect - no connection available
+[17:29:45] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'u607057_7SZx3D5KIk'@'13.76.181.240' (using password: YES)
+[17:29:45] [WARNING] CMySQLConnection::Disconnect - no connection available
+[17:29:45] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'u607057_7SZx3D5KIk'@'13.76.181.240' (using password: YES)
+[17:29:45] [WARNING] CMySQLConnection::Disconnect - no connection available
+[17:29:45] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'u607057_7SZx3D5KIk'@'13.76.181.240' (using password: YES)
+[17:29:45] [WARNING] CMySQLConnection::Disconnect - no connection available
+[17:34:25] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'u607057_7SZx3D5KIk'@'13.76.181.240' (using password: YES)
+[17:34:25] [WARNING] CMySQLConnection::Disconnect - no connection available
+[17:34:25] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'u607057_7SZx3D5KIk'@'13.76.181.240' (using password: YES)
+[17:34:25] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'u607057_7SZx3D5KIk'@'13.76.181.240' (using password: YES)
+[17:34:25] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'u607057_7SZx3D5KIk'@'13.76.181.240' (using password: YES)
+[17:34:25] [WARNING] CMySQLConnection::Disconnect - no connection available
+[17:34:25] [WARNING] CMySQLConnection::Disconnect - no connection available
+[17:34:25] [WARNING] CMySQLConnection::Disconnect - no connection available
+[17:37:15] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'u607057_7SZx3D5KIk'@'13.76.181.240' (using password: YES)
+[17:37:15] [WARNING] CMySQLConnection::Disconnect - no connection available
+[17:37:16] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'u607057_7SZx3D5KIk'@'13.76.181.240' (using password: YES)
+[17:37:16] [WARNING] CMySQLConnection::Disconnect - no connection available
+[17:37:16] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'u607057_7SZx3D5KIk'@'13.76.181.240' (using password: YES)
+[17:37:16] [WARNING] CMySQLConnection::Disconnect - no connection available
+[17:37:16] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'u607057_7SZx3D5KIk'@'13.76.181.240' (using password: YES)
+[17:37:16] [WARNING] CMySQLConnection::Disconnect - no connection available
+[17:43:11] [ERROR] CMySQLConnection::Connect - (error #1049) Unknown database 'shoutcast'
+[17:43:11] [ERROR] CMySQLConnection::Connect - (error #1049) Unknown database 'shoutcast'
+[17:43:11] [ERROR] CMySQLConnection::Connect - (error #1049) Unknown database 'shoutcast'
+[17:43:11] [ERROR] CMySQLConnection::Connect - (error #1049) Unknown database 'shoutcast'
+[17:43:12] [ERROR] cache_get_field_content_int - invalid datatype
+[17:43:12] [ERROR] cache_get_field_content_int - invalid datatype
+[17:43:12] [ERROR] cache_get_field_content_int - invalid datatype
+[17:43:12] [ERROR] cache_get_field_content_int - invalid datatype
+[17:43:12] [ERROR] cache_get_field_content_int - invalid datatype
+[17:43:12] [ERROR] cache_get_field_content_int - invalid datatype
+[17:43:12] [ERROR] cache_get_field_content_int - invalid datatype
+[17:43:12] [ERROR] cache_get_field_content_int - invalid datatype
+[17:43:12] [ERROR] cache_get_field_content_int - invalid datatype
+[17:43:12] [ERROR] cache_get_field_content_int - invalid datatype
+[17:43:12] [ERROR] cache_get_field_content_int - invalid datatype
+[17:43:12] [ERROR] cache_get_field_content_int - invalid datatype
+[17:43:12] [ERROR] cache_get_field_content_int - invalid datatype
+[17:43:12] [ERROR] cache_get_field_content_int - invalid datatype
+[17:43:12] [ERROR] cache_get_field_content_int - invalid datatype
+[17:43:12] [ERROR] cache_get_field_content_int - invalid datatype
+[17:43:12] [ERROR] cache_get_field_content_int - invalid datatype
+[17:43:12] [ERROR] cache_get_field_content_int - invalid datatype
+[17:43:12] [ERROR] cache_get_field_content_int - invalid datatype
+[17:43:12] [ERROR] cache_get_field_content_int - invalid datatype
+[17:43:12] [ERROR] cache_get_field_content_int - invalid datatype
+[17:43:12] [ERROR] cache_get_field_content_int - invalid datatype
+[17:43:12] [ERROR] cache_get_field_content_int - invalid datatype
+[17:43:12] [ERROR] cache_get_field_content_int - invalid datatype
+[17:43:12] [ERROR] cache_get_field_content_int - invalid datatype
+[17:44:12] [WARNING] CMySQLResult::GetRowDataByName - field not found ("login_date")
+[17:44:12] [WARNING] CMySQLResult::GetRowDataByName - field not found ("djmod")
+[17:44:12] [ERROR] cache_get_field_content_int - invalid datatype
+[17:44:12] [WARNING] CMySQLResult::GetRowDataByName - field not found ("newscooldown")
+[17:44:12] [ERROR] cache_get_field_content_int - invalid datatype
+[17:44:12] [ERROR] cache_get_field_content_int - invalid datatype
+[17:44:12] [WARNING] CMySQLResult::GetRowDataByName - field not found ("cookfood")
+[17:44:12] [ERROR] cache_get_field_content_int - invalid datatype
+[17:44:12] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Cookies")
+[17:44:12] [ERROR] cache_get_field_content_int - invalid datatype
+[17:46:32] [WARNING] CMySQLResult::GetRowDataByName - field not found ("login_date")
+[17:46:32] [WARNING] CMySQLResult::GetRowDataByName - field not found ("djmod")
+[17:46:32] [ERROR] cache_get_field_content_int - invalid datatype
+[17:46:32] [WARNING] CMySQLResult::GetRowDataByName - field not found ("newscooldown")
+[17:46:32] [ERROR] cache_get_field_content_int - invalid datatype
+[17:46:32] [ERROR] cache_get_field_content_int - invalid datatype
+[17:46:32] [WARNING] CMySQLResult::GetRowDataByName - field not found ("cookfood")
+[17:46:32] [ERROR] cache_get_field_content_int - invalid datatype
+[17:46:32] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Cookies")
+[17:46:32] [ERROR] cache_get_field_content_int - invalid datatype
+[17:46:32] [ERROR] CMySQLResult::GetRowDataByName() - invalid row index ('1')
+[17:46:32] [ERROR] cache_get_field_content_int - invalid datatype
+[17:48:47] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'newscooldown' in 'field list'
+[17:48:47] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'cookfood' in 'field list'
+[17:48:47] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'newscooldown' in 'field list'
+[17:48:47] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'cookfood' in 'field list'
+[17:50:43] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'newscooldown' in 'field list'
+[17:50:43] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'cookfood' in 'field list'
+[17:51:04] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'newscooldown' in 'field list'
+[17:51:04] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'cookfood' in 'field list'
+[17:51:29] [WARNING] CMySQLResult::GetRowDataByName - field not found ("djmod")
+[17:51:29] [ERROR] cache_get_field_content_int - invalid datatype
+[17:51:29] [WARNING] CMySQLResult::GetRowDataByName - field not found ("newscooldown")
+[17:51:29] [ERROR] cache_get_field_content_int - invalid datatype
+[17:51:29] [ERROR] cache_get_field_content_int - invalid datatype
+[17:51:29] [WARNING] CMySQLResult::GetRowDataByName - field not found ("cookfood")
+[17:51:29] [ERROR] cache_get_field_content_int - invalid datatype
+[17:51:29] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Cookies")
+[17:51:29] [ERROR] cache_get_field_content_int - invalid datatype
+[17:51:29] [ERROR] CMySQLResult::GetRowDataByName() - invalid row index ('1')
+[17:51:29] [ERROR] cache_get_field_content_int - invalid datatype
+[17:52:47] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'newscooldown' in 'field list'
+[17:52:47] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'cookfood' in 'field list'
+[18:01:56] [WARNING] CMySQLResult::GetRowDataByName - field not found ("login_date")
+[18:01:56] [WARNING] CMySQLResult::GetRowDataByName - field not found ("djmod")
+[18:01:56] [ERROR] cache_get_field_content_int - invalid datatype
+[18:01:56] [WARNING] CMySQLResult::GetRowDataByName - field not found ("newscooldown")
+[18:01:56] [ERROR] cache_get_field_content_int - invalid datatype
+[18:01:56] [ERROR] cache_get_field_content_int - invalid datatype
+[18:01:56] [WARNING] CMySQLResult::GetRowDataByName - field not found ("cookfood")
+[18:01:56] [ERROR] cache_get_field_content_int - invalid datatype
+[18:01:56] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Cookies")
+[18:01:56] [ERROR] cache_get_field_content_int - invalid datatype
+[18:03:11] [WARNING] CMySQLResult::GetRowDataByName - field not found ("djmod")
+[18:03:11] [ERROR] cache_get_field_content_int - invalid datatype
+[18:03:11] [WARNING] CMySQLResult::GetRowDataByName - field not found ("newscooldown")
+[18:03:11] [ERROR] cache_get_field_content_int - invalid datatype
+[18:03:11] [ERROR] cache_get_field_content_int - invalid datatype
+[18:03:11] [WARNING] CMySQLResult::GetRowDataByName - field not found ("cookfood")
+[18:03:11] [ERROR] cache_get_field_content_int - invalid datatype
+[18:03:11] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Cookies")
+[18:03:11] [ERROR] cache_get_field_content_int - invalid datatype
+[18:03:11] [ERROR] CMySQLResult::GetRowDataByName() - invalid row index ('1')
+[18:03:11] [ERROR] cache_get_field_content_int - invalid datatype
+[18:04:37] [WARNING] CMySQLResult::GetRowDataByName - field not found ("djmod")
+[18:04:37] [ERROR] cache_get_field_content_int - invalid datatype
+[18:04:38] [WARNING] CMySQLResult::GetRowDataByName - field not found ("newscooldown")
+[18:04:38] [ERROR] cache_get_field_content_int - invalid datatype
+[18:04:38] [ERROR] cache_get_field_content_int - invalid datatype
+[18:04:38] [WARNING] CMySQLResult::GetRowDataByName - field not found ("cookfood")
+[18:04:38] [ERROR] cache_get_field_content_int - invalid datatype
+[18:04:38] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Cookies")
+[18:04:38] [ERROR] cache_get_field_content_int - invalid datatype
+[18:04:38] [ERROR] CMySQLResult::GetRowDataByName() - invalid row index ('2')
+[18:04:38] [ERROR] cache_get_field_content_int - invalid datatype
+[18:05:34] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'newscooldown' in 'field list'
+[18:05:34] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'cookfood' in 'field list'
+[18:05:34] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'newscooldown' in 'field list'
+[18:05:34] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'cookfood' in 'field list'
+[18:05:34] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'newscooldown' in 'field list'
+[18:05:34] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'cookfood' in 'field list'
+[18:10:49] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'newscooldown' in 'field list'
+[18:10:49] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'cookfood' in 'field list'
+[18:11:10] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'newscooldown' in 'field list'
+[18:11:10] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'cookfood' in 'field list'
+[18:11:10] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'newscooldown' in 'field list'
+[18:11:10] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'cookfood' in 'field list'
+[18:11:44] [WARNING] CMySQLResult::GetRowDataByName - field not found ("djmod")
+[18:11:44] [ERROR] cache_get_field_content_int - invalid datatype
+[18:11:44] [WARNING] CMySQLResult::GetRowDataByName - field not found ("newscooldown")
+[18:11:44] [ERROR] cache_get_field_content_int - invalid datatype
+[18:11:44] [ERROR] cache_get_field_content_int - invalid datatype
+[18:11:44] [WARNING] CMySQLResult::GetRowDataByName - field not found ("cookfood")
+[18:11:44] [ERROR] cache_get_field_content_int - invalid datatype
+[18:11:44] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Cookies")
+[18:11:44] [ERROR] cache_get_field_content_int - invalid datatype
+[18:11:44] [ERROR] CMySQLResult::GetRowDataByName() - invalid row index ('1')
+[18:11:44] [ERROR] cache_get_field_content_int - invalid datatype
+[18:16:45] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'newscooldown' in 'field list'
+[18:16:45] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'cookfood' in 'field list'
+[18:16:45] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'newscooldown' in 'field list'
+[18:16:45] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'cookfood' in 'field list'
+[18:16:45] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'newscooldown' in 'field list'
+[18:16:45] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'cookfood' in 'field list'
+[18:22:21] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'newscooldown' in 'field list'
+[18:22:21] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'cookfood' in 'field list'
+[18:22:21] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'newscooldown' in 'field list'
+[18:22:21] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'cookfood' in 'field list'
+[18:22:21] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'newscooldown' in 'field list'
+[18:22:21] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'cookfood' in 'field list'
+[18:27:57] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'newscooldown' in 'field list'
+[18:27:57] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'cookfood' in 'field list'
+[18:27:57] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'newscooldown' in 'field list'
+[18:27:57] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'cookfood' in 'field list'
+[18:27:57] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'newscooldown' in 'field list'
+[18:27:57] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'cookfood' in 'field list'
+[18:33:33] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'newscooldown' in 'field list'
+[18:33:33] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'cookfood' in 'field list'
+[18:33:33] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'newscooldown' in 'field list'
+[18:33:33] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'cookfood' in 'field list'
+[18:33:33] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'newscooldown' in 'field list'
+[18:33:33] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'cookfood' in 'field list'
+[18:39:09] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'newscooldown' in 'field list'
+[18:39:09] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'cookfood' in 'field list'
+[18:39:09] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'newscooldown' in 'field list'
+[18:39:09] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'cookfood' in 'field list'
+[18:39:09] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'newscooldown' in 'field list'
+[18:39:09] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'cookfood' in 'field list'
+[18:40:19] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'newscooldown' in 'field list'
+[18:40:19] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'cookfood' in 'field list'
+[18:44:45] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'newscooldown' in 'field list'
+[18:44:45] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'cookfood' in 'field list'
+[18:44:45] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'newscooldown' in 'field list'
+[18:44:45] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'cookfood' in 'field list'
+[18:50:21] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'newscooldown' in 'field list'
+[18:50:21] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'cookfood' in 'field list'
+[18:50:21] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'newscooldown' in 'field list'
+[18:50:21] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'cookfood' in 'field list'
+[18:50:40] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'newscooldown' in 'field list'
+[18:50:40] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'cookfood' in 'field list'
+[18:55:56] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'newscooldown' in 'field list'
+[18:55:56] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'cookfood' in 'field list'
+[19:01:32] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'newscooldown' in 'field list'
+[19:01:32] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'cookfood' in 'field list'
+[19:07:07] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'newscooldown' in 'field list'
+[19:07:07] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'cookfood' in 'field list'
+[19:12:43] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'newscooldown' in 'field list'
+[19:12:43] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'cookfood' in 'field list'
+[19:18:19] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'newscooldown' in 'field list'
+[19:18:19] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'cookfood' in 'field list'
